@@ -1,2 +1,2 @@
-# KTDict
+# TKDict
 Thai-Khmer Dictionary
